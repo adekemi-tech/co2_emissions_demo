@@ -40,6 +40,18 @@ from itables import show
 import country_converter as coco
 ```
 
+```{python}
+import yaml
+print("YAML module is working!")
+
+```
+
+```{python}
+import nbclient
+print("nbclient is installed and working!")
+
+```
+
 Load in your dataset from gapminder below. View it in your data viewer to get an idea of the structure.
 
 ```{python}
